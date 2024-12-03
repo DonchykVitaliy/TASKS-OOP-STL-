@@ -1,0 +1,4 @@
+﻿  TASKS.cpp
+D:\ЛАБИ\КУРСИ\PRO\TASKS\TASKS\TASKS.cpp(17,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\ЛАБИ\КУРСИ\PRO\TASKS\TASKS\TASKS.cpp(136,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TASKS.vcxproj -> D:\ЛАБИ\КУРСИ\PRO\TASKS\x64\Debug\TASKS.exe
